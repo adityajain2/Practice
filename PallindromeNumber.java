@@ -1,3 +1,6 @@
+// for 121 111.
+//This does not cover corner cases
+
 import java.util.Scanner;
 
 public class PallindromeNumber {
